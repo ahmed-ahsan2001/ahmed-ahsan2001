@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ahmed-ahsan2001
-- I am currently studying in Fast Nuces Karachi, persuing my Bachelors in Computer Science degree.
-- 👀 I’m interested in Web Development and Artificial Intelligence.
-- 🌱 I’m currently learning Mern Stack development.
+- iOS developer at Pak Data Management Services (PDMS)
+- Final Year student studying at Fast Nuces Karachi, persuing my Bachelors in Computer Science degree.
+- 👀Professional iOS Developer and Web Developer.
+- 🌱 Skills include: Swift, Objective C, MERN stack. 
 - 💞️ I’m looking to collaborate on fullstack projects
 - 📫 You can reach me through my email "ahmed-ahsan70@hotmail.com"
 
